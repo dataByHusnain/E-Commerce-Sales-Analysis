@@ -68,7 +68,4 @@ It uses **Python (Pandas, Matplotlib, Plotly Express)** for data analysis and vi
 
 ---
 
-## 🚀 How to Run
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/your-username/Ecommerce-Analysis.git
+
