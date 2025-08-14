@@ -63,7 +63,8 @@ It uses **Python (Pandas, Matplotlib, Plotly Express)** for data analysis and vi
 
 ## 📂 Files in This Repository
 - `Ecommerce_Analysis.ipynb` → Jupyter Notebook with analysis & visualizations  
-- `Ecommerce_Report.pdf` → Full project report with detailed insights  
+- `Ecommerce_Report.pdf` → Full project report with detailed insights
+-  Sample - Superstore.csv → Dataset used for the analysis
 - `README.md` → Project documentation
 
 ---
